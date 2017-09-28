@@ -1,2 +1,3 @@
-# d4ictest
-Dave's test terraform example
+# D4IC Testing Zone
+
+Public repo for testing this.
